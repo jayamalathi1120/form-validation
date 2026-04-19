@@ -24,6 +24,12 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://jayamalathi1120.github.io/form-validation",
+  {
+  "name": "form-validation",
+  "version": "0.1.0",
+  "homepage": "https://jayamalathi1120.github.io/form-validation",
+}
   "browserslist": {
     "production": [
       ">0.2%",
